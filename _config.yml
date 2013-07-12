@@ -1,0 +1,10 @@
+name: "Rayray's blog"
+Description: "github page"
+
+url: raymondbelonia.github.io
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+

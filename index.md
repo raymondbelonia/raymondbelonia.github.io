@@ -1,4 +1,13 @@
-This is the README of my self project, which is making a blog using Jekyll, Twitter Bootstrap and hosting it on github.  
+---
+title: Hello, World!
+layout: default
+---
+
+# Hello World!
+
+Putting random text in here so that the index is not lonely while I am still making the site.
+
+As an excerpt from my long README file:
 
 This self project is mainly for me to be able to create a blog of my own, familiarize myself with html, css, git commands, and the multiple things I can do with Twitter Bootstrap and Jekyll.  I have to admit that I am no web designer, so at least being good at using Twitter Bootstrap with basic to advance html and css skills should at least do the trick for a while.
 
