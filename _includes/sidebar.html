@@ -1,0 +1,12 @@
+<h3>About Me</h3>
+
+<p>I'm Raymond Anthony Belonia.  I'm studying Ruby on Rails and Web Development in General.  I am still a newbie in all of this though.  This self project is one of my firsts that I can call my own.</p>
+
+<p>Random facts about me:  I collect playing cards, and of course I know a few card tricks to go with it.  I never go out without a music player.  I bring a headphone and an IEM wherever I go.  I don't like smartphones.</p>
+
+<h3>Recent Posts</h3>
+<ul>
+	{% for post in site.posts limit: 5 %}
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
