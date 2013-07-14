@@ -1,9 +1,9 @@
 ---
-title: Rayray's journey to randomness and weird urges to create a blog at 1:29 in the morning.
+title: Rayray's nicotine patch for a weird urge to create a blog at 1:29 in the morning.
 layout: default
 ---
 
-# Rayray's journey to randomness and weird urges to create a blog at 1:29 in the morning.
+# Rayray's nicotine patch for a weird urge to create a blog at 1:29 in the morning.
 
 Putting random text in here so that the index is not lonely while I am still making the site.
 
