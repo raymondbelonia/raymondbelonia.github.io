@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts limit: 10 %}
+{% for post in site.posts limit: 50 %}
 <div class="row-fluid">
 	<div class="span12">
 		<h2>{{ post.title }}</h2>
