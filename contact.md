@@ -13,4 +13,7 @@ Or in github(although it has nothing yet except this blog and my sample applicat
 
 Github: <a href="http://github.com/raymondbelonia">My Github</a>
 
-I know it is stupid of me not to have a Twitter account, I will fix this by making an account soon. 
+And as promised from before, I made a Twitter account already.
+
+Twitter: <a href="http://twitter.com/rabelonia">My Twitter</a>
+
